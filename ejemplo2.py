@@ -32,9 +32,16 @@ print(Fore.RED + "Resta = ", resta, Style.RESET_ALL) #Mostrar resultado de la re
 print("Multiplicación =" + str(multiplicación)) # CONCATENACIÓN con (Conversión de un tipo de dato en otro dato) Mostrar resultado de la multiplicación
 print(f"División = {división}") # Interpolación de cadenas, Mostrar resultado de la división usando f-string
 print("Potencia =", potencia) #Mostrar resultado de la potencia
-print("Raíz Cuadrada =", raiz_cuadrada) #Mostrar resultado de la raíz cuadrada
+print("Potencia2 =", potencia2) #Mostrar resultado de la potencia usando pow()
+print("Cuadrado =", cuadrado) #Mostrar resultado del cuadrado
+print("Cubo =", cubo) #Mostrar resultado del cubo
+print("Raíz Cuadrada2 =", raíz_cuadrada2) #Mostrar resultado de la raíz cuadrada usando sqrt()
+print("Raíz Cuadrada3 =", raiz_cuadrada3) #Mostrar resultado de la raíz cuadrada usando pow()
+print("Raíz Cuadrada =", raiz_cuadrada) #Mostrar resultado de la raíz cuadrada  
 print("Raíz Cúbica =", raiz_cúbica) #Mostrar resultado de
+print("Raíz Cúbica2 =", raíz_cúbica2) #Mostrar resultado de la raíz cúbica usando pow()
 print("Módulo =", módulo) #Mostrar resultado del módulo
+print("Módulo2 =", módulo2) #Mostrar resultado del módulo usando divmod()
 
 # COMENTAR CTRL + K + C
 # DESCOMENTAR CTRL + K + U

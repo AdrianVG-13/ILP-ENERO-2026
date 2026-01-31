@@ -10,4 +10,13 @@ else:
 
 # SALIDA DE DATOS (Resultados)
 print("El número", numero, "es", resultado)
+
+# USANDO CONDICIONALES LÓGICOS
+if numero % 2 == 0:
+    print("El número", numero, "es par")
+elif numero % 2 != 0:
+    print("El número", numero, "es impar")
+# Nota: Se asume que el usuario ingresa un número entero válido 
+# (positivo, negativo o cero) para este ejemplo.    
+
      
